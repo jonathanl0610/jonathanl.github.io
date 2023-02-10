@@ -43,8 +43,8 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
+            <h1 class="margin text-center">CYOA(create your own adventure!) Project</h1>
+            <p>Context: we were tasked to create a storyline that branches off in many different ways, so that linking MD (markdown files) becomes practiced, and working with others at the same time, pushing and pulling in changes</p>
             <p>More text about the project.</p>
             <a href="#">Link about the project</a><br>
 
